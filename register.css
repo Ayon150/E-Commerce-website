@@ -66,6 +66,7 @@ body{
     margin-right: 20%;
     text-align: center;
     background-color: #c0b33fb6;
+    padding-bottom: 25px;
 }
 .register p{
     color: #0c0c0c;
@@ -92,12 +93,15 @@ footer{
     width: 100%;
 }
 .btn{
+    text-align: center;
     color: #000;
     background-color: #c0b33fb6;
-    margin-top: 15px;
-    position:relative;
+    padding: 10px 20px;
+    margin-left: 47%;
+    margin-top: 5%;
+    position: absolute;
     transition: .5s;
 }
 .btn:hover{
     background-color:#f9e103
-} 
+}
